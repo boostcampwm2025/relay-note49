@@ -1,13 +1,16 @@
 # 주제 - 나에 대한 딥다이브: AI와 함께 나를 마주보다
 
 ## 🤔AI에게 나를 맡겨봤다: 나는 어떤 개발자인가?
-<img width="512" height="512" alt="11" src="https://github.com/user-attachments/assets/a9f166b2-dc8a-47c3-b943-3f13219dccdd" />
-
-<img width="512" height="512" alt="22" src="https://github.com/user-attachments/assets/7b980e60-5ed9-4f87-93c3-40231dddd5b5" />
-<img width="512" height="512" alt="33" src="https://github.com/user-attachments/assets/bf5d6ed7-fd25-4a72-b5a6-eb3b7b0914b8" />
-
-<img width="512" height="512" alt="44" src="https://github.com/user-attachments/assets/25fa47f7-ca0a-420d-8555-d94997a8529c" />
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a9f166b2-dc8a-47c3-b943-3f13219dccdd" width="256"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7b980e60-5ed9-4f87-93c3-40231dddd5b5" width="256"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bf5d6ed7-fd25-4a72-b5a6-eb3b7b0914b8" width="256"/></td>
+    <td><img src="https://github.com/user-attachments/assets/25fa47f7-ca0a-420d-8555-d94997a8529c" width="256"/></td>
+  </tr>
+</table>
 
 ---
 ## 🎯 주제를 선택한 이유
