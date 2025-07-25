@@ -14,6 +14,8 @@
 > 🧐 어떤 상황에서 나를 알게 될까? 를 시작으로 퀘스트 제작을 시작했습니다.
 > 
 
+
+
 # 🔍 조사하기
 
 > 팀원들이 하나의 퀘스트를 각각 맡아 직접 실험해봤습니다.
@@ -73,6 +75,7 @@
 
 
 참고 자료입니다 ^^ 어떤 언어가 본인 스타일이신가요?
+<img width="1042" height="1032" alt="image" src="https://github.com/user-attachments/assets/ceab5448-1e36-4338-932c-2416a7e701d1" />
 https://www.instagram.com/reel/C8HDWDFpT8f/?utm_source=ig_embed&ig_rid=06467f79-36da-495b-a7af-6ff8429b8807
 https://www.instagram.com/p/C8THJILykHl/?img_index=5
 
