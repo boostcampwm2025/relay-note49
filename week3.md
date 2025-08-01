@@ -225,7 +225,8 @@ AI가 어떤 멜로디로 해석해줄지 궁금하지 않나요? 🤔
 **4️⃣ 내 스타일의 프로그래밍 언어 혹은 개발 분야 추천 받기**    
 
 선택한 이유:  
-해당 퀘스트의 [출처](https://www.instagram.com/reel/C8HDWDFpT8f/?utm_source=ig_embed&ig_rid=06467f79-36da-495b-a7af-6ff8429b8807 https://www.instagram.com/p/C8THJILykHl/?img_index=5)를 살펴봤는데 생각도 못했던 프로그래밍 언어 의인화가 나와서 재밌게 봤다. 다 보고나니 내 코딩 스타일은 어디에 속할지 궁금해졌고, 나는 Java를 주 언어로 사용하고있는데 과연 부스트캠프에서 Javascript를 사용하는 지금, Java 스타일에 속할지, JavaScript에 속할지 궁금해져서 해당 퀘스트를 선택했다.  
+해당 퀘스트의 [출처](https://www.instagram.com/reel/C8HDWDFpT8f/?utm_source=ig_embed&ig_rid=06467f79-36da-495b-a7af-6ff8429b8807 https://www.instagram.com/p/C8THJILykHl/?img_index=5)   
+를 살펴봤는데 생각도 못했던 프로그래밍 언어 의인화가 나와서 재밌게 봤다. 다 보고나니 내 코딩 스타일은 어디에 속할지 궁금해졌고, 나는 Java를 주 언어로 사용하고있는데 과연 부스트캠프에서 Javascript를 사용하는 지금, Java 스타일에 속할지, JavaScript에 속할지 궁금해져서 해당 퀘스트를 선택했다.  
 
 ### J192_이수정
 **1️⃣ 자신이 프로젝트 파일을 통해 AI에게 개발 성향 물어보기**  
